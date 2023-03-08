@@ -58,7 +58,7 @@
 }
 /* slide */
 .slide{
-    background-image: url(/img/Image1.png);
+    background-image: url(img/Image1.png);
     height: 386px;
     width: 1440px;
     background-repeat: no-repeat;
